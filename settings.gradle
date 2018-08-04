@@ -1,0 +1,4 @@
+rootProject.name = 'polaris'
+include 'polaris-netty'
+include 'polaris-core'
+
